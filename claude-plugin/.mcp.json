@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "adwhispr": {
-      "type": "http",
-      "url": "https://adwhispr.com/api/plugin/mcp"
-    }
-  }
-}
