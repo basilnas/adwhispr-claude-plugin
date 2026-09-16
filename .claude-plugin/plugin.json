@@ -1,6 +1,5 @@
 {
   "name": "adwhispr-ads",
-  "displayName": "AdWhispr Ads",
   "version": "1.0.0",
   "description": "Competitor ad research and campaign launching. Find which brands in any niche are running ads right now, see their longest-running winners, research TikTok ads and Google keywords, then launch paused campaigns on Meta, Google, and TikTok.",
   "author": {
@@ -11,6 +10,15 @@
   "homepage": "https://adwhispr.com/ads-mcp",
   "repository": "https://github.com/basilnas/adwhispr-claude-plugin",
   "license": "MIT",
-  "keywords": ["ads", "marketing", "competitor-research", "facebook-ads", "meta-ads", "tiktok-ads", "google-ads", "ad-library"],
+  "keywords": [
+    "ads",
+    "marketing",
+    "competitor-research",
+    "facebook-ads",
+    "meta-ads",
+    "tiktok-ads",
+    "google-ads",
+    "ad-library"
+  ],
   "mcpServers": "./.mcp.json"
 }
