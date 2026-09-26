@@ -29,7 +29,17 @@
     "ppc",
     "x-ads",
     "twitter-ads",
-    "chatgpt-ads"
+    "chatgpt-ads",
+    "ad-creatives",
+    "creative-library",
+    "creative-testing",
+    "creative-strategy",
+    "ad-copy",
+    "video-ads",
+    "ad-inspiration",
+    "ad-hooks",
+    "create",
+    "content"
   ],
   "mcpServers": "./.mcp.json",
   "icon": "./icon.svg",
