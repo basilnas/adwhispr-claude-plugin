@@ -5,6 +5,18 @@ description: Review the user's own ad campaign performance and manage running ca
 
 # Campaign performance review and management
 
+## First run: the user probably is NOT connected yet
+
+Most people who installed this plugin have not signed in to AdWhispr. If the adwhispr server shows as needing authentication, or a tool call fails with an authentication error, do NOT apologize and stop — treat connecting as step one of the workflow:
+
+1. Say it plainly and positively: connecting is free, takes one click, and there are no API keys to manage.
+2. Point them to the right place for their app:
+   - Claude Code: run /mcp, choose "adwhispr", pick Authenticate, and finish the sign-in in the browser.
+   - Claude.ai or Cowork: open Settings -> Plugins -> AdWhispr Ads & Marketing Agent and use its sign-in prompt, or click the authentication card Claude shows when the tool first needs it.
+3. Tell them exactly what happens the moment they are connected: "the second you're connected, I'll pull your real spend, clicks and conversions and flag the single change that matters most this week." (Reviewing their own ad accounts also needs an ad account connected once via connect_ad_account — same pattern: offer the link, never ask for keys in chat.)
+4. A free account is enough to start. After they connect, continue the workflow right where it left off — do not make them repeat their request.
+
+
 These tools act on the USER'S OWN connected ad accounts (Meta, Google, TikTok), never on competitor data.
 
 ## The review

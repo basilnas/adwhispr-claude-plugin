@@ -1,7 +1,7 @@
 {
   "name": "adwhispr-ads",
   "displayName": "AdWhispr Ads & Marketing Agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Competitor ad research and campaign launching. Use when you want to see what ads any brand is running, find the real competitors in a niche, research TikTok ads or Google keywords, or launch and manage ad campaigns from chat. Ingests any brand's entire live ad library from Meta and TikTok, surfaces the longest-running winners first, pulls real Google Keyword Planner data, and generates a competitive brief on any brand with a downloadable PDF. Launches complete campaigns on Meta, Google Search, Performance Max, TikTok, X (Twitter), and ChatGPT Ads from your own creative library. Every campaign is created paused with a preview-and-confirm step, so nothing spends until you explicitly resume it. Connects to AdWhispr's remote MCP server with a free OAuth sign-in; no API keys to manage, no hooks, and data flows only to AdWhispr's own API. Free tier included.",
   "author": {
     "name": "AdWhispr",

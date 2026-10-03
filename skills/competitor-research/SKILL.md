@@ -5,6 +5,18 @@ description: Find which brands in the user's niche are running ads RIGHT NOW and
 
 # Competitor ad research with verified data
 
+## First run: the user probably is NOT connected yet
+
+Most people who installed this plugin have not signed in to AdWhispr. If the adwhispr server shows as needing authentication, or a tool call fails with an authentication error, do NOT apologize and stop — treat connecting as step one of the workflow:
+
+1. Say it plainly and positively: connecting is free, takes one click, and there are no API keys to manage.
+2. Point them to the right place for their app:
+   - Claude Code: run /mcp, choose "adwhispr", pick Authenticate, and finish the sign-in in the browser.
+   - Claude.ai or Cowork: open Settings -> Plugins -> AdWhispr Ads & Marketing Agent and use its sign-in prompt, or click the authentication card Claude shows when the tool first needs it.
+3. Tell them exactly what happens the moment they are connected: "the second you're connected, I'll find the competitors actually running ads in your niche right now and pull their longest-running winners."
+4. A free account is enough to start. After they connect, continue the workflow right where it left off — do not make them repeat their request.
+
+
 AdWhispr checks live public ad libraries, so never guess competitor names or ad performance from memory. Every claim you make should come from a tool result.
 
 ## The core workflow
