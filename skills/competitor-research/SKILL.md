@@ -1,6 +1,6 @@
 ---
 name: competitor-research
-description: Find which brands in the user's niche are running ads RIGHT NOW and surface their proven winners. Use when the user asks who their competitors are, who has the best ads in their space, what ads a specific brand runs, or wants winning ad examples for any product or niche. Also use when the user names a competitor and wants their ads analyzed.
+description: "Find which brands in the user's niche are running ads RIGHT NOW and surface their proven winners. Use when the user asks who their competitors are, who has the best ads in their space, what ads a specific brand runs, or wants winning ad examples for any product or niche. Also use when the user names a competitor and wants their ads analyzed."
 ---
 
 # Competitor ad research with verified data

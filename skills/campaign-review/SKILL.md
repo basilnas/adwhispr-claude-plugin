@@ -1,6 +1,6 @@
 ---
 name: campaign-review
-description: Review the user's own ad campaign performance and manage running campaigns. Use when the user asks how their campaigns are doing, wants spend, clicks, or conversion numbers, wants a weekly or Monday review, or wants to pause, resume, or change the budget of a campaign.
+description: "Review the user's own ad campaign performance and manage running campaigns. Use when the user asks how their campaigns are doing, wants spend, clicks, or conversion numbers, wants a weekly or Monday review, or wants to pause, resume, or change the budget of a campaign."
 ---
 
 # Campaign performance review and management

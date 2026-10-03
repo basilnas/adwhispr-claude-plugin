@@ -1,6 +1,6 @@
 ---
 name: clone-winning-ads
-description: Turn a competitor's proven ad into the user's own creative and get it live. Use when the user wants to copy, clone, remix, or adapt a winning ad they found, wants a script based on a competitor's TikTok ad, or wants to launch a creative they already have onto Meta or TikTok.
+description: "Turn a competitor's proven ad into the user's own creative and get it live. Use when the user wants to copy, clone, remix, or adapt a winning ad they found, wants a script based on a competitor's TikTok ad, or wants to launch a creative they already have onto Meta or TikTok."
 ---
 
 # Clone proven winners, then launch
