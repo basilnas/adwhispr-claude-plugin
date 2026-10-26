@@ -1,6 +1,6 @@
 ---
 name: longest-running-ads
-description: "Surface the ads a brand or niche has kept running the longest \u2014 the closest honest signal to a proven winner. Use when the user wants proven ads, winning ad examples, a brand's best or longest-running ads, or asks what ads have been running the longest in a category."
+description: "Surface the ads a brand or niche has kept running the longest, the closest honest signal to a proven winner. Use when the user wants proven ads, winning ad examples, a brand's best or longest-running ads, or asks what ads have been running the longest in a category."
 ---
 
 # Longest-running ads finder

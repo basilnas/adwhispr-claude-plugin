@@ -1,22 +1,30 @@
-# AdWhispr Ads — Claude Code plugin
+# AdWhispr Ads: the Claude Code plugin
 
-Competitor ad research and campaign launching inside Claude Code and Cowork.
+Launch, manage and optimize your own ad accounts from Claude Code and Cowork, and research any brand's ads before you do.
 
-AdWhispr checks live public ad libraries, so Claude stops guessing about ads and starts checking: which brands in your niche are running ads right now, which of their ads have survived months of spend (the one performance signal nobody can fake), what keywords cost, and what is working on TikTok. Then it launches your campaigns on Meta, Google, and TikTok. Every campaign is created paused, so nothing spends until you switch it on.
+Connect your Meta (Facebook and Instagram), Google, TikTok, X, ChatGPT Ads or LinkedIn account once, then ask in plain words: how are my campaigns doing, where am I wasting money, pause the one that is not converting, raise the budget on the winner, launch a Search campaign for this landing page. Every change shows you a preview first, and every new campaign is created paused, so nothing spends until you resume it.
+
+On the research side, AdWhispr reads the live public ad libraries, so Claude stops guessing about ads and starts checking: which brands in your niche are running ads right now, which of their ads have survived months of spend (the one performance signal nobody can fake), what keywords cost, and what is working on TikTok.
 
 ## What's inside
 
-- **MCP server**: 33 tools for research and campaign execution, connected to your AdWhispr account via OAuth on first use (free account, no credit card).
-- **competitor-research** skill: the verified-advertisers workflow. Who runs ads in your space, their longest-running winners, TikTok and keyword research, honest reporting rules.
-- **clone-winning-ads** skill: turn a proven competitor ad into your own creative. TikTok script cloning is built in; finished image and video generation happens in the AdWhispr web app and launches from your Creative Library here.
-- **campaign-review** skill: real spend, clicks, and conversion numbers from your connected ad accounts, plus safe two-step budget changes, pause, and resume.
+- **MCP server**: research and campaign tools, connected to your AdWhispr account via OAuth on first use (free account, no credit card).
+- **Manage and optimize**: `campaign-review`, `wasted-spend-audit`, `budget-reallocation`, `creative-fatigue-refresh`.
+- **Launch, per platform**: `meta-ads`, `google-ads`, `tiktok-ads`, `x-ads`, `chatgpt-ads`.
+- **Research**: `competitor-research`, `longest-running-ads`, `niche-ad-report`, `brand-vs-brand`, `winning-angle-extractor`, `new-ad-watch`, `competitor-keyword-spy`, `keyword-universe-builder`.
+- **Creative**: `clone-winning-ads` turns a proven competitor ad into your own; finished image and video generation happens in the AdWhispr web app and launches from your Creative Library here.
+- **`get-started`**: the two-minute first run.
 
 ## Get started
 
 Install the plugin, then ask Claude:
 
+> How are my Google and Meta campaigns doing, and where am I wasting money?
+
+or, before you have an ad account connected:
+
 > Who are my competitors and what are their best ads? My site is yourstore.com
 
-The free plan includes 15 agent calls a month. Pro adds 150 calls, the brief generator, weekly competitor email digests, and monthly creative credits. Details: https://adwhispr.com
+A free AdWhispr account is included. Plans and details: https://adwhispr.com
 
 Support: basil@adwhispr.com

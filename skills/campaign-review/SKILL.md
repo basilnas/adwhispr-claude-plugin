@@ -1,6 +1,6 @@
 ---
 name: campaign-review
-description: "Review the user's own ad campaign performance and manage running campaigns. Use when the user asks how their campaigns are doing, wants spend, clicks, or conversion numbers, wants a weekly or Monday review, or wants to pause, resume, or change the budget of a campaign."
+description: "Review, manage and optimize the user's own ad campaigns: real performance numbers, then the budget, pause, resume and targeting changes that follow. Use when the user asks how their campaigns are doing, wants spend, clicks, or conversion numbers, wants a weekly or Monday review, or wants to pause, resume, or change the budget of a campaign."
 ---
 
 # Campaign performance review and management
@@ -17,7 +17,7 @@ Most people who installed this plugin have not signed in to AdWhispr. If the adw
 4. A free account is enough to start. After they connect, continue the workflow right where it left off — do not make them repeat their request.
 
 
-These tools act on the USER'S OWN connected ad accounts (Meta, Google, TikTok), never on competitor data.
+These tools act on the USER'S OWN connected ad accounts (Meta, Google, TikTok, X, ChatGPT Ads, LinkedIn), never on competitor data.
 
 ## The review
 
