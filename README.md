@@ -9,11 +9,11 @@ On the research side, AdWhispr reads the live public ad libraries, so Claude sto
 ## What's inside
 
 - **MCP server**: research and campaign tools, connected to your AdWhispr account via OAuth on first use (free account, no credit card).
-- **Manage and optimize**: `campaign-review`, `wasted-spend-audit`, `budget-reallocation`, `creative-fatigue-refresh`.
-- **Launch, per platform**: `meta-ads`, `google-ads`, `tiktok-ads`, `x-ads`, `chatgpt-ads`.
+- **Manage and optimize**: `ads-manager`, `campaign-review`, `wasted-spend-audit`, `weekly-ad-review`, `budget-reallocation`, `creative-fatigue-refresh`, `agency-multi-account`.
+- **Launch, per platform**: `meta-ads`, `google-ads`, `tiktok-ads`, `x-ads`, `chatgpt-ads`, `linkedin-ads`, and `local-business-ads` for shops and services.
 - **Research**: `competitor-research`, `longest-running-ads`, `niche-ad-report`, `brand-vs-brand`, `winning-angle-extractor`, `new-ad-watch`, `competitor-keyword-spy`, `keyword-universe-builder`.
 - **Creative**: `clone-winning-ads` turns a proven competitor ad into your own; finished image and video generation happens in the AdWhispr web app and launches from your Creative Library here.
-- **`get-started`**: the two-minute first run.
+- **`get-started`** and **`connect-ad-account`**: the two-minute first run and the one-click account connection.
 
 ## Get started
 

@@ -1,7 +1,7 @@
 {
   "name": "adwhispr-ads",
   "displayName": "AdWhispr Ads & Marketing Agent",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Launch, manage and optimize your own ad accounts from chat, and research any brand's ads. Use when the user wants to see how their campaigns are doing, find wasted spend, pause or resume a campaign, change a budget or targeting, launch a new campaign, or asks who their competitors are and what ads are working. Connects the user's own Meta (Facebook and Instagram), Google, TikTok, X, ChatGPT Ads and LinkedIn accounts: real spend, clicks and conversions, keyword-level diagnostics on Google Search, two-step budget and targeting changes, and complete campaigns launched from the user's own creative library. Every campaign is created paused with a preview-and-confirm step, so nothing spends until the user resumes it. Research side: any brand's live Meta and TikTok ads with the longest-running winners first, verified competitor discovery, real Google Keyword Planner data, and a competitive brief with a PDF. Free OAuth sign-in to AdWhispr, no API keys, no hooks, data flows only to AdWhispr's own API. Free tier included.",
   "author": {
     "name": "AdWhispr",
@@ -86,7 +86,18 @@
     "ppc-audit",
     "ad-spend-audit",
     "meta-ads-manager",
-    "google-ads-manager"
+    "google-ads-manager",
+    "local-business-ads",
+    "agency",
+    "multi-account",
+    "weekly-report",
+    "connect-ad-account",
+    "ad-account-connection",
+    "b2b-ads",
+    "sponsored-content",
+    "call-ads",
+    "radius-targeting",
+    "near-me"
   ],
   "mcpServers": "./.mcp.json",
   "icon": "./icon.svg",
